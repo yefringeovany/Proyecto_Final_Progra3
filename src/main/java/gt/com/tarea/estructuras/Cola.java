@@ -2,7 +2,7 @@ package gt.com.tarea.estructuras;
 
 public class Cola {
 
-      private Nodo frente;
+    private Nodo frente;
     private Nodo finalCola;
 
     public Cola() {
